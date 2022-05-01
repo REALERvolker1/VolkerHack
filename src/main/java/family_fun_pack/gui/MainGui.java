@@ -77,7 +77,7 @@ public class MainGui extends GuiScreen {
 
     // Window title
     GuiLabel title = (new GuiLabel(this.fontRenderer, 0, this.x + 2, this.y + 4, MainGui.guiWidth - 4, 16, MainGui.LABEL_COLOR)).setCentered();
-    title.addLine("Family Fun Pack");
+    title.addLine("VolkerHack a4");
     this.labelList.add(title);
 
     // Add lines

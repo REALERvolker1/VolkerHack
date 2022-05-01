@@ -1,16 +1,16 @@
 [
-{
-  "modid": "family_fun_pack",
-  "name": "Family Fun Pack",
-  "description": "Family Fun Pack - fun for the whole family.\n\nGo to https://github.com/anOtherAnalyse/FamilyFunPack for a list of features.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["Bobeezz"],
-  "credits": "The Forge and FML guys",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "volkerhack",
+    "name": "VolkerHack",
+    "description": "VolkerHack haram edition \n The best AUM for 2b2t",
+    "version": "a4",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/REALERvolker1/VolkerHack",
+    "updateUrl": "",
+    "authorList": [ "volker1" ],
+    "credits": "FFP",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]

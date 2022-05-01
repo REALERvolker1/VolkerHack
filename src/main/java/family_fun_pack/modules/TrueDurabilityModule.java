@@ -242,7 +242,7 @@ public class TrueDurabilityModule extends Module implements PacketListener {
     else color = TextFormatting.BLUE;
 
     toolTip.add("");
-    toolTip.add(color.toString() + "Durability: " + Long.toString(count) + " [Max: " + Long.toString(max) + "]" + TextFormatting.RESET.toString());
+    toolTip.add(color.toString() + "Dura = [" + TextFormatting.RED.toString() + Long.toString(count) + color.toString() + "/" + TextFormatting.GREEN.toString() + Long.toString(max) + "]" + TextFormatting.RESET.toString());
   }
 
   public Packet<?> packetReceived(EnumPacketDirection direction, int id, Packet<?> packet, ByteBuf in) {
