@@ -1,11 +1,12 @@
-## Family Fun Pack
+## volkerhack
 
 ### Summary
 
-Minecraft 1.12.2 utility mod for anarchy servers, 2b2t - 9b9t. This is not a complete anarchy utility mod, but instead offers a few features that are missing or are improved from what offer others utility mods.
+Minecraft anarchy utility mod (AUM) for 2b2t and related servers.
 
 ### Usage
 Use the ```backslash``` key to open the GUI (by default). Change it from Minecraft keybinds options.
+Pretty sure that the commands escape char is ```=``` but idfk anymore bc it never works :(
 
 ### Features
 [Modules list](/modules.md)
@@ -14,3 +15,5 @@ Use the ```backslash``` key to open the GUI (by default). Change it from Minecra
 
 ### Disclaimer
 Most of these features are based on Minecraft network stack and do not work on singleplayer.
+
+o yeah also this is a dirty skid
