@@ -16,10 +16,11 @@ out
 # gradle
 build
 .gradle
+.vs
 
 # other
 eclipse
 run
-.vs
 # Apple shit
 .DS_Store
+/.vs/
