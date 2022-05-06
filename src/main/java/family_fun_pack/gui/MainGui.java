@@ -27,11 +27,11 @@ import family_fun_pack.gui.interfaces.InfoItemGui;
 public class MainGui extends GuiScreen {
 
   public static final int BACKGROUND_COLOR = (216 << 24);
-  public static final int LABEL_COLOR = 0xffeeeeee;
-  public static final int BORDER_COLOR = 0xffbbbbbb;
+  public static final int LABEL_COLOR = 0xff00ff00;
+  public static final int BORDER_COLOR = 0xffffaaaa;
 
   public static final int guiWidth = 148;
-  public static final int guiHeight = 216;
+  public static final int guiHeight = 230;
 
   private int x, y, x_end, y_end;
 
