@@ -6,7 +6,7 @@ Minecraft anarchy utility mod (AUM) for 2b2t and related servers.
 
 ### Usage
 Use the ```backslash``` key to open the GUI (by default). Change it from Minecraft keybinds options.
-Pretty sure that the commands escape char is ```=``` but idfk anymore bc it never works :(
+Pretty sure that the commands escape char is ```=``` but it doesn't always work depending on what clients you have installed. :(
 
 ### Features
 [Modules list](/modules.md)
