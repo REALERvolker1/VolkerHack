@@ -27,6 +27,7 @@ public class Modules {
     this.modules.add(new IgnoreModule());
     this.modules.add(new PacketInterceptionModule());
     this.modules.add(new PigPOVModule());
+    this.modules.add(new TallPersonModule());
     this.modules.add(new PortalInvulnerabilityModule());
     this.modules.add(new SearchModule());
     this.modules.add(new NoCloseModule());
